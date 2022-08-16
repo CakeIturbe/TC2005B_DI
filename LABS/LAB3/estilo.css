@@ -1,0 +1,68 @@
+header{
+    background-color: rgb(38, 61, 54);
+    background-image: url("https://practicascanada.com/wp-content/uploads/2018/06/shutterstock_147024272.jpg-Optimized-1440x960.jpg");
+    background-position-y: -200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 19.2px;
+    padding-bottom: 93.2px;
+    padding-top: 93.2px;
+    padding-left: 32px;
+    padding-right: 32px;
+    text-align: center;
+}
+body{
+    background-color: rgb(199,198,198);
+    text-align: justify;
+}
+main{
+    background-color: rgb(235,234,224);
+    color: rgb(85,85,85);
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    line-height: 32 px;
+    margin-bottom: 0px;
+    margin: 0 auto;
+    max-width: 50em;
+    padding-bottom: 32px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 32px;
+}
+
+footer{
+    background-color: rgb(116, 114, 114);
+    line-height: 48px;
+    text-align: center;
+}
+
+td{
+    font-size: small;
+}
+
+th{
+    font-size: xx-large;
+}
+
+#quote{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large;
+    width: 80%;
+    
+}
+
+#image{
+    margin-left: 130px;
+}
+
+#autor{
+    margin-left: 150px;
+    font-style: italic;
+}
+
+.pregunta{
+    color: rgb(92,79,62);
+    font-size: x-large;
+    line-height: auto
+}
